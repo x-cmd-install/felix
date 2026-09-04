@@ -1,11 +1,13 @@
 about:
-  description: tui file manager with vim-like key mapping
+  description:
+  |
+    tui file manager with vim-like key mapping
   license: MIT
   homepage: https://kyoheiu.dev/felix/
   head: 95df390
   archived: false
   latestVersion: v2.16.1
-  collectedAt: 2026-09-04T05:03:14Z
+  collectedAt: 2026-09-04T19:56:37Z
 timeline:
   created: 2021-09-13
   lastCommit: 2025-04-12
@@ -16,17 +18,25 @@ popularity:
   fork: 35
   release: 84
   contributor: 14
-  pullRequest: 16
+  pullRequest: 153
   issue: 159
 language:
   Rust: 312759
-totalLine: 312759
+totalBytes: 312759
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
     openPR: 1
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 2
     closedIssue: 0
     openIssue: 0
     commit: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 0
     openIssue: 4
     commit: 0
+  last720d:
+    since: 2024-09-14
+    release: 4
+    mergedPR: 9
+    openPR: 4
+    closedIssue: 3
+    openIssue: 9
+    commit: 32
+total:
+  release: 84
+  mergedPR: 137
+  openPR: 6
+  closedIssue: 136
+  openIssue: 23
+  commit: 1596
+---
+---
+
