@@ -118,4 +118,3 @@ total:
 ---
 
 ---
-{"id":212032487,"author":{"login":"kyoheiu","id":61998590,"node_id":"MDQ6VXNlcjYxOTk4NTkw","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOGDEetc4Mo1vn","tag_name":"v2.16.1","target_commitish":"develop","name":"v2.16.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2025-04-12T21:30:40Z","updated_at":"2025-04-12T21:38:47Z","published_at":"2025-04-12T21:38:47Z","assets":[],"body":"## v2.16.1 (2025-04-13)\r\n\r\n### Fixed\r\n\r\n- Add type annotation to u16 -> usize conversion to avoid build error.","reactions":{"total_count":2,"+1":2,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":0,"eyes":0}}
